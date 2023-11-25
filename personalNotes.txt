@@ -1,0 +1,18 @@
+/*
+Objetives Dani
+    - Import or read the config.txt file using std::ifstream
+    - Create a vector to store the information inside the config.txt file
+    - Create the shapes and check if those were sucessfull created. I think a loop can be useful
+    - Center the text entitie inside the shape
+    - Make that one shape can bound in the edges or sides of the window
+    - make the other shapes can move around the window and bounding randomly
+*/
+
+/*
+Analysis
+    -you can handled data from a file saving this in struct, classes and so on.
+    The decision of which one you should to use off course depends of the requirements of the
+    project, but specially about structs and classes, if you dont have to change the behavior or
+    customize it form the child class structs can be more usefull.
+*/
+
